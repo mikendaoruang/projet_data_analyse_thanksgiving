@@ -1,4 +1,4 @@
-# Projet Analyse de données - Thanksgiving
+# Projet Python : Analyse de données - Thanksgiving
 
 ## Objectif
 Ce projet a pour objectif d’analyser les habitudes et comportements liés à Thanksgiving à partir d’un dataset, afin d’identifier des tendances de consommation et des insights intéressants.
